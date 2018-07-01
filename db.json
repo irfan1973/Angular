@@ -1,0 +1,19 @@
+{"profiles":[
+    {"id":0,
+    "name":"Ijaz",
+    "age":87},
+    {"id":1,
+        "name":"Rehana",
+        "age":71
+    },
+    {"id":2,
+        "name":"Sajjad",
+        "age":50
+    }
+
+
+
+]
+
+
+}
